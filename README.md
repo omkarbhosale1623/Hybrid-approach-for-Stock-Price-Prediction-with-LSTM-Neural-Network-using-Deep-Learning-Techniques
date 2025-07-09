@@ -7,7 +7,7 @@ The model helps investors and analysts make informed decisions by predicting sto
 ---
 
 ## 🗂️ Dataset
-- **Source:** Historical daily closing prices and additional features were collected for both stocks.
+- **Source:** Historical daily closing prices and additional features were collected for both stocks from Yahoo finance.
 - **Features:**  
   - Closing Price  
   - Trading Volume  
@@ -70,7 +70,7 @@ presented at **ICDSAI-2024** and indexed in **Scopus**.
 ---
 
 ## 📚 Author
-- **Developed by:** [Omkar Bhosale]
+- **Developed by:** Omkar Bhosale
 - ## 📫 Contact
 
 - 📧 **Email**: omkarbhosale1623@gmail.com
